@@ -1,7 +1,8 @@
 # ESP8266 IP Notifier 
 
 Ce projet consiste en un dispositif basé sur ESP8266 qui surveille l'adresse IP publique (WAN) de votre réseau et vous envoie une notification via Telegram lorsqu'elle change.
-![image](https://github.com/user-attachments/assets/235a1641-03c9-402a-a53d-fa2b0072e3d6)  ![image](https://github.com/user-attachments/assets/5d6a5cc3-3c49-446b-88ea-cf2c514f11df)
+![image](https://github.com/user-attachments/assets/235a1641-03c9-402a-a53d-fa2b0072e3d6)  ![image](https://github.com/user-attachments/assets/cea98393-4ae1-40f4-8f75-a262341b2317)
+
 
 
 
