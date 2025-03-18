@@ -141,6 +141,9 @@ Si vous devez réinitialiser la configuration :
 1. Accédez à l'interface web et cliquez sur "Réinitialiser"
 2. Ou ouvrez le moniteur série dans Arduino IDE, connectez-vous à l'ESP8266 et envoyez la commande `reset`
 
+   ![image](https://github.com/user-attachments/assets/e1ed72d2-090f-4a23-af41-f200f639b198)
+
+
 ## Personnalisation
 
 ### Modification de l'intervalle de vérification
