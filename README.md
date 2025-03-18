@@ -163,12 +163,9 @@ Les contributions à ce projet sont les bienvenues. N'hésitez pas à soumettre 
 
 Ce projet est distribué sous la licence MIT. Voir le fichier LICENSE pour plus d'informations.
 
-## Auteur
-
-[Votre Nom] - [Votre Email/GitHub]
 
 ## Remerciements
 
 - Bibliothèque ESP8266 pour Arduino
 - Communauté Arduino et ESP8266
-- API Telegram pour la simplicité d'utilisationr
+- API Telegram pour la simplicité d'utilisation
